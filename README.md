@@ -3,20 +3,20 @@ Hi there, I'm Ishwari Shelke 👋
 💻 Computer Engineering Student | MERN Stack Developer | Data Science & AIML | Open Source Enthusiast
 
 🚀 About Me
-🎓 Computer Engineering Student
-💻 MERN Stack Developer
-🌱 Currently learning Backend Development & AI
-🎯 Goal: Crack a Software Engineering Internship and Placement
-⚡ Love building Full Stack Projects
-📍 India
+- 🎓 Computer Engineering Student
+- 💻 MERN Stack Developer
+- 🌱 Currently learning Backend Development & AI
+- 🎯 Goal: Crack a Software Engineering Internship and Placement
+- ⚡ Love building Full Stack Projects
+- 📍 India
 
 📌 Featured Projects
 ### 🏠 Airbnb Clone (MERN Stack)
-Full Stack Airbnb-inspired web application
-User Authentication
-Property Listings
-MongoDB Integration
-Responsive UI
+- Full Stack Airbnb-inspired web application
+- User Authentication
+- Property Listings
+- MongoDB Integration
+- Responsive UI
 
 ---
 
