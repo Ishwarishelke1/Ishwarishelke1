@@ -1,6 +1,6 @@
 Hi there, I'm Ishwari Shelke 👋
 
-💻 Computer Engineering Student | MERN Stack Developer | Data Science & AIML | Open Source Enthusiast
+💻 Computer Engineering Student | MERN Stack Developer | Data Science & AIML | GSSOC | Open Source Enthusiast
 
 🚀 About Me
 - 🎓 Computer Engineering Student
