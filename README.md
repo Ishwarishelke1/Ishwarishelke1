@@ -66,7 +66,6 @@ Passionate about building scalable full-stack applications, AI-powered solutions
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
 # 🚀 Featured Projects
@@ -91,24 +90,17 @@ An intelligent recruitment platform that automates the hiring process using Arti
 ### 🛠 Tech Stack
 
 **Frontend**
-- React.js
-- Bootstrap
-- CSS
+React.js • Bootstrap • CSS
 
 **Backend**
-- Flask
-- Python
-- REST API
+Flask • Python • REST API
 
 **AI / ML**
-- Sentence Transformers
-- Scikit-learn
-- NLP
-- Cosine Similarity
+Sentence Transformers • Scikit-learn • NLP • Cosine Similarity
 
 **Database & Cloud**
-- MongoDB Atlas
-- Cloudinary
+
+React • Cloudinary
 
 ---
 
